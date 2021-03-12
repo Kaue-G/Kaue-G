@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Banner Kauê Guedes](img/kgBanner.png)
 
 _"O primeiro passo, é acreditar!"_
-> _- kauê guedes -_
+_- kauê guedes -_
