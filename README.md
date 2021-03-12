@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 ![Banner Kauê Guedes](img/kgBanner.png)
 
 <a href="https://www.instagram.com/kaueguedes.dev/" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+  <img align="right" src="img/instagram.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
 Olá, sou <b>Kauê Guedes</b>.
 </p>
 <a href="https://www.linkedin.com/in/kauê-guedes-dev" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  <img align="right" src="img/linkedin.png" width="48px" height="48px">
 </a>
 
 ## Sobre mim:
