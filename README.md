@@ -27,9 +27,7 @@ Olá, sou <b>Kauê Guedes</b>.
 </a>
 
 ## Sobre mim:
-Aberto a desafios, matenho a busca diaria em novos conhecimentos e 
-formas diferentes de percepção, apaixonado por tecnologia, engenharia
-de Software e produção audio-visual.
+Aberto a desafios, mantenho a busca diária em novos conhecimentos e formas diferentes de percepção, apaixonado por tecnologia, engenharia de Software e produção audiovisual.
 ### _"O primeiro passo, é acreditar!"_
 _- kauê guedes -_
 
