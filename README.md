@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Banner Kauê Guedes](img/kgBanner.png)
 
-### "O primeiro passo, é acreditar!"
-- kauê guedes -
+>"O primeiro passo, é acreditar!"
+>- kauê guedes -
