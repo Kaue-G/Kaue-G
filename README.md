@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 ![Banner Kauê Guedes](img/kgBanner.png)
 
-### _"O primeiro passo, é acreditar!"_
-_- kauê guedes -_
-
 <a href="https://www.instagram.com/kaueguedes.dev/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
@@ -34,6 +31,8 @@ Olá, sou <b>Kauê Guedes</b>.
 Aberto a desafios, matenho a busca diaria em novos conhecimentos e 
 formas diferentes de percepção, apaixonado por tecnologia, engenharia
 de Software e produção audio-visual.
+### _"O primeiro passo, é acreditar!"_
+_- kauê guedes -_
 
-<img align="right" alt="GIF" src="img/my-octocat.png" width="400px" />
+<img align="right" alt="GIF" src="img/my-octocat.png" width="200px" />
 
