@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋</h1>
-
 ![Banner Kauê Guedes](img/kgBanner.png)
+
+<h1 align="center">Hi there 👋</h1>
 
 <a href="https://www.instagram.com/kaueguedes.dev/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
