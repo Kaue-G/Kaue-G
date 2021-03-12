@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there 👋</h1>
-<hr>
 
 ![Banner Kauê Guedes](img/kgBanner.png)
 
