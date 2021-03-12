@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋</h1>
 <hr>
 
+![Banner Kauê Guedes](img/kgBanner.png)
+
 ### "O primeiro passo, é acreditar!"
 - kauê guedes -
-
-![Banner Kauê Guedes](img/kgBanner.png)
