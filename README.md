@@ -31,7 +31,7 @@ Aberto a desafios, mantenho a busca diária em novos conhecimentos e formas dife
 ### _"O primeiro passo, é acreditar!"_
 _- kauê guedes -_
 
-<img align="right" alt="GIF" src="img/profile.png" width="200px" style="border-radius: 50%" />
+<img align="right" alt="GIF" src="img/profile.png" width="200px"/>
 
 Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a>
 from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
